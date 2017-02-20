@@ -1,0 +1,8 @@
+---
+title: "1paskaita"
+author: "Kornelijus Samsonas"
+date: "2/20/2017"
+output: html_document
+---
+
+opa opa opapa
